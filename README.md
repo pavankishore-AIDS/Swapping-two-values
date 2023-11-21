@@ -20,8 +20,8 @@ End the program
 ## PROGRAM:
 ```
 #Program to swap two values.
-#Developed by: Pavan kishore
-#RegisterNumber:21002328
+#Developed by: Pavan kishore.M
+#RegisterNumber:212221230076
 num1,num2=int(input()),int(input())
 num1,num2=num2,num1
 print('Swapped values are:',num1,num2)
